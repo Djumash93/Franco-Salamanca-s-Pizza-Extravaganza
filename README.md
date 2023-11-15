@@ -6,4 +6,4 @@ Tech-stack used - HTML, JavaScript, React, Vite, Redux/reduxToolKit, React Route
 
 Here is the live website for the app :)
 
-https://franco-salamancas-pizza.netlify.app/
+https://franco-salamanca.netlify.app/
